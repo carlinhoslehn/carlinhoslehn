@@ -1,4 +1,4 @@
-## Ola Pessoas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## ✨ Ola Pessoas ✨ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br/>
 
 ### Olá, meu nome é **Carlos Eduardo** sou desenvolvedor web a mais de 10 anos, 
@@ -7,7 +7,7 @@
 ### com a stack [Laravel](https://laravel.com) + [VueJS](https://vuejs.org/)
 <br/><br/>
 
-## _Alguns detalhes sobre mim:_
+## 😄 _Alguns detalhes sobre mim:_
 <br/>
 
 - 🔭: Atualmente estou trabalhando com Laravel + vueJs
@@ -15,14 +15,14 @@
 - 😄: Meus Hobbies são robôtica, impressão 3D, Arduino e robôs
 <br/><br/>
 
-## _Você pode me encontrar aqui:_
+## 📫 _Você pode me encontrar aqui:_
 <br/>
 <a href="https://www.linkedin.com/in/carloslehn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:carlos@carlinhoslehn.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
 <br/>
 
-## *Algumas experiências:* :wrench:
+## :wrench: *Algumas experiências:* 
 
 <p>
    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
