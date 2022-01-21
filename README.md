@@ -1,10 +1,10 @@
 ## ✨ Ola Pessoas ✨ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br/>
 
-### Olá, meu nome é **Carlos Eduardo** sou desenvolvedor web a mais de 10 anos, 
-### neste tempo fui focado a maior parte do tempo em back-end PHP, 
-### atualmente trabalho como fullstack develop
-### com a stack [Laravel](https://laravel.com) + [VueJS](https://vuejs.org/)
+Olá, meu nome é **Carlos Eduardo** sou desenvolvedor web a mais de 10 anos, <br/>
+neste tempo fui focado a maior parte do tempo em back-end PHP, <br/>
+atualmente trabalho como fullstack develop
+com a stack [Laravel](https://laravel.com) + [VueJS](https://vuejs.org/)
 <br/><br/>
 
 ## 😄 _Alguns detalhes sobre mim:_
