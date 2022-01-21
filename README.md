@@ -11,9 +11,8 @@
 <br/>
 
 - 🔭: Atualmente estou trabalhando com Laravel + vueJs
-- :seedling:
-- 🌱: Estou atualmente aprendendo react
-- ⚡: Meus Hobbies são robôtica, impressão 3D, Arduino e robôs
+- 🌱: Aprendendo React, Docker, heroku
+- 😄: Meus Hobbies são robôtica, impressão 3D, Arduino e robôs
 <br/><br/>
 ## _Você pode me encontrar aqui:_
 <br/>
@@ -21,7 +20,7 @@
 <a href="mailto:carlos@carlinhoslehn.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
 <br/>
-## :wrench: *Algumas experiências:*
+## *Algumas experiências:* :wrench:
 
 <p>
    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
