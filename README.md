@@ -14,12 +14,14 @@
 - 🌱: Aprendendo React, Docker, heroku
 - 😄: Meus Hobbies são robôtica, impressão 3D, Arduino e robôs
 <br/><br/>
+
 ## _Você pode me encontrar aqui:_
 <br/>
 <a href="https://www.linkedin.com/in/carloslehn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:carlos@carlinhoslehn.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
 <br/>
+
 ## *Algumas experiências:* :wrench:
 
 <p>
