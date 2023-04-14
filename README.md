@@ -1,7 +1,7 @@
 ## ✨ Ola Pessoas ✨ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br/>
 
-Olá, meu nome é **Carlos Eduardo** sou desenvolvedor web a mais de 10 anos, <br/>
+Olá, meu nome é **Carlos Eduardo** sou desenvolvedor web a mais de 13 anos, <br/>
 neste tempo fui focado a maior parte do tempo em back-end PHP, <br/>
 atualmente trabalho como fullstack develop
 com a stack [Laravel](https://laravel.com) + [VueJS](https://vuejs.org/)
@@ -12,7 +12,7 @@ com a stack [Laravel](https://laravel.com) + [VueJS](https://vuejs.org/)
 
 - 🔭: Atualmente estou trabalhando com Laravel + vueJs
 - 🌱: Aprendendo React, Docker, heroku
-- 😄: Meus Hobbies são robôtica, impressão 3D, Arduino e robôs
+- 😄: Meus Hobbies são robôtica, impressão 3D e Arduino.
 <br/><br/>
 
 ## 📫 _Você pode me encontrar aqui:_
